@@ -59,7 +59,7 @@ To run the code in this repository, you'll need:
 ## 📂 Project Structure
 
 ```
-Distributed caching theory/
+Distributed Caching System/
 ├── geecache/lru                      # LRU cache implementation
 ├── geecache/single                 # Single-machine concurrent cache
 ├── geecache/consistenthash                    # Consistent hashing implementation
